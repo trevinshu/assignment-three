@@ -1,10 +1,14 @@
 import { AppBar } from 'components/appbar';
+import { GoogleProvider } from 'components/authentication/providers';
+import { Title } from 'ui/title';
 
 function index() {
   return (
-    <div>
+    <>
       <AppBar />
-    </div>
+      <Title>Account Login</Title>
+      <GoogleProvider>With Google</GoogleProvider>
+    </>
   );
 }
 
