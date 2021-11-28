@@ -1,11 +1,9 @@
-import { GoogleProvider } from 'components/auth/providers/google';
+import { AppBar } from 'components/appbar';
+
 function index() {
   return (
     <div>
-      <header>
-        <h1>To Do List App</h1>
-        <GoogleProvider label="Sign Up With Google" />
-      </header>
+      <AppBar />
     </div>
   );
 }
