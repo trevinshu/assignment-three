@@ -1,23 +1,28 @@
-# Next JS Stater Kit .....
-add features.....
+# Assignment Three - React Todo Adding Authentication - Trevin Shu
 
-## Deployment to vercel
-Git Repo
-Sign up git hub account.
+I added the ability to log in and logout with an user that is stored in Firebase.
 
+## Tools/Packages Used:
 
+- firebase
+- next
+- react
+- react-dom
+- react-icons
+- styled-components
+- babel-plugin-styled-components
+- eslint
+- eslint-config-next
+- sass
+- @svgr/cli
 
-# Creating Pages In Next 
-page components
-navigation link between pages <Link> next/link
+## How To Run:
 
-<Link href="/path-to-file-in-pages">
-     <a>Home Page</a>
-</Link>
+1. Open with your preferred code editor
+2. Open terminal
+3. npx next dev
+4. COpy and paste the server link into your browser's address bar or click the server link to open it in your default browser.
 
-Firebase Account Setup.....
-Create A Project
-Setup Firebase Config
-Connect Our App to Firebase
-authentication
-data base.....
+## Bugs
+
+- No bugs.
