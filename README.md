@@ -1,6 +1,8 @@
-# Assignment Three - React Todo Adding Authentication - Trevin Shu
+# Assignment Four - Firebase Authentication Providers - Trevin Shu
 
-I added the ability to log in and logout with an user that is stored in Firebase.
+- Added the ability to login with an user stored in Firebase
+- Added the ability to login with Google
+- Added the ability to login with GitHub
 
 ## Tools/Packages Used:
 
