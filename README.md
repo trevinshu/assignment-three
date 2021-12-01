@@ -23,7 +23,7 @@
 1. Open with your preferred code editor
 2. Open terminal
 3. npx next dev
-4. COpy and paste the server link into your browser's address bar or click the server link to open it in your default browser.
+4. Copy and paste the server link into your browser's address bar or click the server link to open it in your default browser.
 
 ## Bugs
 
